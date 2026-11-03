@@ -1,9 +1,27 @@
-## RED ZONE テクニック用のMIDIファイル群です
+# RED ZONE テクニック用のMIDIファイル群
 
-### 収録ぞね
+追加してほしいMIDIはIssueに書くか、プルリクで送ってください！
+
+## 収録ぞね
+- ALICE ZONE
+- ASUNO ZONE
+- BLESSING ZONE
 - CONNECT ZONE
+- FLOWER ZONE
+- FREEDOM ZONE
+- ICU ZONE
+- ILLUSION ZONE
+- LAST ZONE
+- NYAN ZONE
+- RED ZONE 神社
 - RED ZONE
-
----
-
-まだ少ないですが、随時増やしていきます
+- REMOVER ZONE
+- SCARLET ZONE
+- SECOND ZONE
+- SOUTHERN ZONE
+- TROPICAL ZONE
+- VANISHING ZONE
+- WALL ZONE
+- YOU ZONE
+- YOUKAI ZONE
+- YOZORA ZONE
